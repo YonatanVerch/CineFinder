@@ -4,7 +4,7 @@
 
 **Live Demo:** [Try CineFinder](https://frontend-yonatanverch-1188-yonatan-verchs-projects.vercel.app?_vercel_share=bGyuOwWVvPdF7dHriW4mAtIUt0zMi4g4)
 
-![CineFinder Demo](https://github.com/user-attachments/assets/63c33c1a-d21a-4c45-80de-e8f3ed533088)
+![CineFinder Demo](screenshots/CineFinder Demo Gif.gif)
 
 ---
 
