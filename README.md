@@ -40,3 +40,12 @@ Users can explore popular movies, search by title, and save favorites. The app i
 ```bash
 git clone https://github.com/YonatanVerch/movie-search-app.git
 cd movie-search-app
+
+# Install dependencies
+npm install
+
+# Add your TMDB API key
+echo "VITE_TMDB_API_KEY=your_api_key_here" > .env
+
+# Start the development server
+npm run dev
