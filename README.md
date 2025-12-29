@@ -1,3 +1,5 @@
+# 🎬 CineFinder
+
 **CineFinder** — A React + Vite movie search app with live TMDB API integration.  
 
 **Live Demo:** [Try CineFinder](https://frontend-o3q3a68py-yonatan-verchs-projects.vercel.app/)
@@ -29,12 +31,7 @@ Users can explore popular movies, search by title, and save favorites. The app i
 
 ---
 
-A special thanks to Tech With Tim 
-for tutorials and guidance that inspired and helped build this project!
-
----
-
-##  Local Setup
+## Local Setup
 
 1. Clone the repository:
 
