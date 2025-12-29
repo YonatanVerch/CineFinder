@@ -4,14 +4,14 @@
 
 **Live Demo:** [Try CineFinder](https://frontend-yonatanverch-1188-yonatan-verchs-projects.vercel.app?_vercel_share=bGyuOwWVvPdF7dHriW4mAtIUt0zMi4g4)
 
-![CineFinder Demo](screenshots/CineFinder%20Demo%20Gif.gif)
-
 ---
 
 ## Overview
 
 CineFinder is a modern web application for **searching and browsing movies** using the TMDB API.  
 Users can explore popular movies, search by title, and save favorites. The app is fully responsive for desktop and mobile.
+
+![CineFinder Demo](screenshots/CineFinder%20Demo%20Gif.gif)
 
 ---
 
