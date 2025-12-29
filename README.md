@@ -17,19 +17,21 @@ Users can explore popular movies, search by title, and save favorites. The app i
 
 ## Features
 
-- Browse **popular movies**  
-- Search movies by **title**  
-- Save **favorites**  
-- Responsive **desktop & mobile** design  
+- **Dynamic Movie Discovery:** Browse trending movies in real-time using TMDB API with asynchronous data fetching.  
+- **Advanced Search:** Responsive search bar querying TMDB API with `async/await`, including error handling and loading states.  
+- **Favorites Management:** Save and organize favorites using React Context API for scalable global state.  
+- **Responsive UI:** Mobile- and desktop-optimized interface with clean, modular CSS.  
+- **Robust Frontend Practices:** Conditional rendering, component reusability, and modular project architecture.
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, React Router  
+- **Frontend:** React, React Router, Vite  
+- **State Management:** React Context API  
 - **Styling:** CSS  
-- **API:** TMDB  
-- **Deployment:** Vercel  
+- **API:** TMDB (RESTful API)  
+- **Deployment:** Vercel 
 
 ---
 
