@@ -1,38 +1,43 @@
-# CineFinder
-CineFinder — React + Vite movie search app with live TMDB API integration.
+**CineFinder** — A React + Vite movie search app with live TMDB API integration.  
 
 **Live Demo:** [Try CineFinder](https://frontend-o3q3a68py-yonatan-verchs-projects.vercel.app/)
 
-CineFinder is a React + Vite web application for searching and browsing movies using the TMDB API. Users can view popular movies, search by title, and save favorites. 
+---
+
+## Overview
+
+CineFinder is a modern web application for **searching and browsing movies** using the TMDB API.  
+Users can explore popular movies, search by title, and save favorites. The app is fully responsive for desktop and mobile.
 
 ---
 
 ## Features
 
-- Browse popular movies  
-- Search movies by title  
-- Save favorites  
-- Responsive design for desktop and mobile  
+- Browse **popular movies**  
+- Search movies by **title**  
+- Save **favorites**  
+- Responsive **desktop & mobile** design  
 
 ---
 
 ## Tech Stack
 
-- React, Vite, React Router  
-- CSS for styling  
-- TMDB API for movie data  
-- Deployed on Vercel  
+- **Frontend:** React, Vite, React Router  
+- **Styling:** CSS  
+- **API:** TMDB  
+- **Deployment:** Vercel  
 
 ---
 
-## Local Setup
+A special thanks to Tech With Tim 
+for tutorials and guidance that inspired and helped build this project!
+
+---
+
+##  Local Setup
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/YonatanVerch/movie-search-app.git
 cd movie-search-app
-npm install
-echo "VITE_TMDB_API_KEY=your_api_key_here" > .env
-npm run dev
-
-
-A special thanks to **[Tech With Tim](https://www.youtube.com/c/TechWithTim)** for tutorials and guidance that helped in building this project.
